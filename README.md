@@ -38,4 +38,5 @@ dotnet run
 In the React project root:
 
 npm install
+
 npm run dev
